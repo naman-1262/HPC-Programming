@@ -1,0 +1,46 @@
+Experiment 1
+
+=============================
+Configuration 1
+NX=250 NY=100
+=============================
+Particles: 100
+Total interpolation time = 0.000016 seconds
+Particles: 10000
+Total interpolation time = 0.001413 seconds
+Particles: 1000000
+Total interpolation time = 0.114125 seconds
+Particles: 100000000
+Total interpolation time = 8.867798 seconds
+Particles: 1000000000
+Total interpolation time = 88.238051 seconds
+
+=============================
+Configuration 2
+NX=500 NY=200
+=============================
+Particles: 100
+Total interpolation time = 0.000010 seconds
+Particles: 10000
+Total interpolation time = 0.000971 seconds
+Particles: 1000000
+Total interpolation time = 0.107198 seconds
+Particles: 100000000
+Total interpolation time = 11.868919 seconds
+Particles: 1000000000
+Total interpolation time = 108.285806 seconds
+
+=============================
+Configuration 3
+NX=1000 NY=400
+=============================
+Particles: 100
+Total interpolation time = 0.000030 seconds
+Particles: 10000
+Total interpolation time = 0.002662 seconds
+Particles: 1000000
+Total interpolation time = 0.120470 seconds
+Particles: 100000000
+Total interpolation time = 11.514068 seconds
+Particles: 1000000000
+Total interpolation time = 168.982556 seconds
